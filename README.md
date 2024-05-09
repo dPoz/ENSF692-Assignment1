@@ -1,5 +1,6 @@
 
 Author: David Pozniak
+
 Favourite inspirational quote: "You miss 100% of the shots you don't take. - Wayne Gretzky"
 
 ## 📝 ENSF 692 - Assignment 1 Tasks
